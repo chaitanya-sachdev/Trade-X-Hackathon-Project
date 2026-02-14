@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+outputs/
+checkpoint-*/
+
+# React
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+desktop.ini
+*.sqlite3
+chromadb_store/
+trade_x_vdb/
+unsloth_compiled_cache/
+*.bin
+*.pickle
